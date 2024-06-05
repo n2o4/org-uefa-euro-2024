@@ -1,0 +1,3 @@
+* UEFA Euro 2024 schedule in org-mode format
+** Schedule from https://en.wikipedia.org/wiki/UEFA_Euro_2024
+** All times are [[https://en.wikipedia.org/wiki/Central_European_Summer_Time][CEST]] ([[https://en.wikipedia.org/wiki/UTC%252B02:00][UTC+2]]), as listed by UEFA.

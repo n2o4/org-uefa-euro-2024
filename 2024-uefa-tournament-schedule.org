@@ -1,0 +1,235 @@
+#+TITLE: Schedule for the UEFA Euro 2024
+#+TAGS: EURO2024
+#+CATEGORY: EURO2024
+
+* Info
+** Schedule from [[https://en.wikipedia.org/wiki/UEFA_Euro_2024]]
+** Inspiration and code from [[https://github.com/djcb/org-euro2012/][djcb's EURO2012]] and [[https://github.com/ruediger/org-world-cup2014][ruediger's 2014 World cup]] schedules.
+** All times are [[https://en.wikipedia.org/wiki/Central_European_Summer_Time][CEST]] ([[https://en.wikipedia.org/wiki/UTC%252B02:00][UTC+2]]), as listed by UEFA.
+
+Use the following function to change the timezone.  Set =n= to 1 hour for
+[[https://fi.wikipedia.org/wiki/UTC%252B3][UTC+3]].  Move to code block and use =C-c C-c= to eval it.
+
+#+HEADERS: :var n=1
+#+begin_src emacs-lisp :results silent
+  (save-excursion
+    (goto-char (point-min))
+    (while (re-search-forward "[[<]" nil t)
+      (when (org-at-timestamp-p t)
+        (org-timestamp-change n 'hour))))
+#+end_src
+
+* Schedule for the UEFA EURO 2024
+** Group A                                                           :GroupA:
+*** Germany - Scotland
+<2024-06-14 Fri 21:00>
+Fussball Arena München, Munich
+
+*** Hungary - Switzerland
+<2024-06-15 Sat 15:00>
+Cologne Stadium, Cologne
+
+*** Germany - Hungary
+<2024-06-19 Wed 18:00>
+Stuttgart Arena, Stuttgart
+
+*** Scotland - Switzerland
+<2024-06-19 Wed 21:00>
+Cologne Stadium, Cologne
+
+*** Switzerland - Germany
+<2024-06-23 Sun 21:00>
+Frankfurt Arena, Frankfurt
+
+*** Scotland - Hungary
+<2024-06-23 Sun 21:00>
+Stuttgart Arena, Stuttgart
+
+** Group B                                                           :GroupB:
+*** Spain - Croatia
+<2024-06-15 Sat 18:00>
+Olympiastadion, Berlin
+
+*** Italy - Albania
+<2024-06-15 Sat 21:00>
+BVB Stadion Dortmund, Dortmund
+
+*** Croatia - Albania
+<2024-06-19 Wed 15:00>
+Volksparkstadion, Hamburg
+
+*** Spain - Italy
+<2024-06-20 Thu 21:00>
+Arena AufSchalke, Gelsenkirchen
+
+*** Albania - Spain
+<2024-06-24 Mon 21:00>
+Düsseldorf Arena, Düsseldorf
+
+*** Croatia - Italy
+<2024-06-24 Mon 21:00>
+Leipzig Stadium, Leipzig
+
+** Group C                                                           :GroupC:
+*** Slovenia - Denmark
+<2024-06-16 Sun 18:00>
+Stuttgart Arena, Stuttgart
+
+*** Serbia - England
+<2024-06-16 Sun 21:00>
+Arena AufSchalke, Gelsenkirchen
+
+*** Slovenia - Serbia
+<2024-06-20 Thu 15:00>
+Fussball Arena München, Munich
+
+*** Denmark - England
+<2024-06-20 Thu 18:00>
+Frankfurt Arena, Frankfurt
+
+*** England - Slovenia
+<2024-06-25 Tue 21:00>
+Cologne Stadium, Cologne
+
+*** Denmark - Serbia
+<2024-06-25 Tue 21:00>
+Fussball Arena München, Munich
+
+** Group D                                                           :GroupD:
+*** Poland - Netherlands
+<2024-06-16 Sun 15:00>
+Volksparkstadion, Hamburg
+
+*** Austria - France
+<2024-06-17 Mon 21:00>
+Düsseldorf Arena, Düsseldorf
+
+*** Poland - Austria
+<2024-06-21 Fri 18:00>
+Olympiastadion, Berlin
+
+*** Netherlands - France
+<2024-06-21 Fri 21:00>
+Leipzig Stadium, Leipzig
+
+*** Netherlands - Austria
+<2024-06-25 Tue 18:00>
+Olympiastadion, Berlin
+
+*** France - Poland
+<2024-06-25 Tue 18:00>
+BVB Stadion Dortmund, Dortmund
+
+** Group E                                                           :GroupE:
+*** Romania - Ukraine
+<2024-06-17 Mon 15:00>
+Fussball Arena München, Munich
+
+*** Belgium - Slovakia
+<2024-06-17 Mon 18:00>
+Frankfurt Arena, Frankfurt
+
+*** Slovakia - Ukraine
+<2024-06-21 Fri 15:00>
+Düsseldorf Arena, Düsseldorf
+
+*** Belgium - Romania
+<2024-06-22 Sat 21:00>
+Cologne Stadium, Cologne
+
+*** Slovakia - Romania
+<2024-06-26 Wed 18:00>
+Frankfurt Arena, Frankfurt
+
+*** Ukraine - Belgium
+<2024-06-26 Wed 18:00>
+Stuttgart Arena, Stuttgart
+
+** Group F                                                           :GroupF:
+*** Türkiye - Georgia
+<2024-06-18 Tue 18:00>
+BVB Stadion Dortmund, Dortmund
+
+*** Portugal - Czech Republic
+<2024-06-18 Tue 21:00>
+Leipzig Stadium, Leipzig
+
+*** Georgia - Czech Republic
+<2024-06-22 Sat 15:00>
+Volksparkstadion, Hamburg
+
+*** Türkiye - Portugal
+<2024-06-22 Sat 18:00>
+BVB Stadion Dortmund, Dortmund
+
+*** Georgia - Portugal
+<2024-06-26 Wed 21:00>
+Arena AufSchalke, Gelsenkirchen
+
+*** Czech Republic - Türkiye
+<2024-06-26 Wed 21:00>
+Volksparkstadion, Hamburg
+
+** Round of 16                                                    :RoundOf16:
+*** Winner group A - Runner-up group C                              :Match37:
+<2024-06-29 Sat 21:00>
+BVB Stadion Dortmund, Dortmund
+
+*** Runner-up group A - Runner-up group B                           :Match38:
+<2024-06-29 Sat 18:00>
+Olympiastadion, Berlin
+
+*** Winner group B - 3rd group A/D/E/F                              :Match39:
+<2024-06-30 Sun 21:00>
+Cologne Stadium, Cologne
+
+*** Winner group C - 3rd group D/E/F                                :Match40:
+<2024-06-30 Sun 18:00>
+Arena AufSchalke, Gelsenkirchen
+
+*** Winner group F - 3rd group A/B/C                                :Match41:
+<2024-07-01 Mon 21:00>
+Frankfurt Arena, Frankfurt
+
+*** Runner-up group D - Runner-up group E                           :Match42:
+<2024-07-01 Mon 18:00>
+Düsseldorf Arena, Düsseldorf
+
+*** Winner group E - 3rd group A/B/C/D                              :Match43:
+<2024-07-02 Tue 18:00>
+Fussball Arena München, Munich
+
+*** Winner group D - Runner-up group F                              :Match44:
+<2024-07-02 Tue 21:00>
+Leipzig Stadium, Leipzig
+
+** Quarter finals                                                  :QtFinals:
+*** Winner match 39 - Winner match 37                               :Match45:
+<2024-07-05 Fri 18:00>
+Stuttgart Arena, Stuttgart
+
+*** Winner match 41 - Winner match 42                               :Match46:
+<2024-07-05 Fri 21:00>
+Volksparkstadion, Hamburg
+
+*** Winner match 40 - Winner match 38                               :Match47:
+<2024-07-06 Sat 18:00>
+Düsseldorf Arena, Düsseldorf
+
+*** Winner match 43 - Winner match 44                               :Match48:
+<2024-07-06 Sat 21:00>
+Olympiastadion, Berlin
+
+** Semi-finals                                                   :SemiFinals:
+*** Winner match 45 - Winner match 46                               :Match49:
+<2024-07-09 Tue 21:00>
+Fussball Arena München, Munich
+
+*** Winner match 47 - Winner match 48                               :Match50:
+<2024-07-10 Wed 21:00>
+BVB Stadion Dortmund, Dortmund
+
+** Final                                                              :Final:
+*** Winner match 49 - Winner match 50
+<2024-07-14 Sun 21:00>
+Olympiastadion, Berlin
