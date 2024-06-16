@@ -91,9 +91,12 @@ Düsseldorf Arena, Düsseldorf
 Leipzig Stadium, Leipzig
 
 ** Group C                                                           :GroupC:
-*** Slovenia - Denmark
+*** Slovenia - Denmark 1-1
 <2024-06-16 Sun 18:00>
 Stuttgart Arena, Stuttgart
+
+| 17' | 0-1 | Christian Eriksen |
+| 77' | 1-1 | Erik Janža        |
 
 *** Serbia - England
 <2024-06-16 Sun 21:00>
