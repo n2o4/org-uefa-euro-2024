@@ -116,9 +116,13 @@ Cologne Stadium, Cologne
 Fussball Arena München, Munich
 
 ** Group D                                                           :GroupD:
-*** Poland - Netherlands
+*** Poland - Netherlands 1-2
 <2024-06-16 Sun 15:00>
 Volksparkstadion, Hamburg
+
+| 16' | 1-0 | Adam Buksa    |
+| 29' | 1-1 | Cody Gakpo    |
+| 83' | 1-2 | Wout Weghorst |
 
 *** Austria - France
 <2024-06-17 Mon 21:00>
