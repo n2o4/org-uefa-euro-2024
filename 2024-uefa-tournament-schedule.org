@@ -150,9 +150,13 @@ Olympiastadion, Berlin
 BVB Stadion Dortmund, Dortmund
 
 ** Group E                                                           :GroupE:
-*** Romania - Ukraine
+*** Romania - Ukraine 3-0
 <2024-06-17 Mon 15:00>
 Fussball Arena München, Munich
+
+| 29' | 1-0 | Nicolae Stanciu |
+| 53' | 2-0 | Răzvan Marin    |
+| 57' | 3-0 | Denis Drăguş    |
 
 *** Belgium - Slovakia
 <2024-06-17 Mon 18:00>
