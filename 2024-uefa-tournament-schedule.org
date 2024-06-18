@@ -183,9 +183,14 @@ Frankfurt Arena, Frankfurt
 Stuttgart Arena, Stuttgart
 
 ** Group F                                                           :GroupF:
-*** Türkiye - Georgia
+*** Türkiye - Georgia 3-1
 <2024-06-18 Tue 18:00>
 BVB Stadion Dortmund, Dortmund
+
+| 26'   | 1-0 | Mert Müldür        |
+| 32'   | 1-1 | Georges Mikautadze |
+| 65'   | 2-1 | Arda Güler         |
+| 90+7' | 3-1 | Kerem Aktürkoğlu   |
 
 *** Portugal - Czech Republic
 <2024-06-18 Tue 21:00>
