@@ -260,7 +260,7 @@ BVB Stadion Dortmund, Dortmund
 <2024-06-29 Sat 18:00>
 Olympiastadion, Berlin
 
-*** Winner group B - 3rd group A/D/E/F                              :Match39:
+*** Spain - 3rd group A/D/E/F                                       :Match39:
 <2024-06-30 Sun 21:00>
 Cologne Stadium, Cologne
 
@@ -268,7 +268,7 @@ Cologne Stadium, Cologne
 <2024-06-30 Sun 18:00>
 Arena AufSchalke, Gelsenkirchen
 
-*** Winner group F - 3rd group A/B/C                                :Match41:
+*** Portugal - 3rd group A/B/C                                      :Match41:
 <2024-07-01 Mon 21:00>
 Frankfurt Arena, Frankfurt
 
