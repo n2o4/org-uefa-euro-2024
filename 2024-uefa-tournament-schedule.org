@@ -260,11 +260,11 @@ Arena AufSchalke, Gelsenkirchen
 Volksparkstadion, Hamburg
 
 ** Round of 16                                                    :RoundOf16:
-*** Winner group A - Runner-up group C                              :Match37:
+*** Germany - Runner-up group C                                     :Match37:
 <2024-06-29 Sat 21:00>
 BVB Stadion Dortmund, Dortmund
 
-*** Runner-up group A - Runner-up group B                           :Match38:
+*** Switzerland - Runner-up group B                                 :Match38:
 <2024-06-29 Sat 18:00>
 Olympiastadion, Berlin
 
