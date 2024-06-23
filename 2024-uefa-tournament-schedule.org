@@ -55,13 +55,18 @@ Cologne Stadium, Cologne
 | 13' | 1-0 | Fabian Schär (OG) |
 | 26' | 1-1 | Xherdan Shaqiri   |
 
-*** Switzerland - Germany
+*** Switzerland - Germany 1-1
 <2024-06-23 Sun 21:00>
 Frankfurt Arena, Frankfurt
 
-*** Scotland - Hungary
+| 28'   | 1-0 | Dan Ndoye       |
+| 90+2' | 1-1 | Niclas Füllkrug |
+
+*** Scotland - Hungary 0-1
 <2024-06-23 Sun 21:00>
 Stuttgart Arena, Stuttgart
+
+| 90+11' | 0-1 | Kevin Csoboth |
 
 ** Group B                                                           :GroupB:
 *** Spain - Croatia 3-0
