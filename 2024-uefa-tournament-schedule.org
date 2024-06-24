@@ -100,13 +100,18 @@ Arena AufSchalke, Gelsenkirchen
 
 | 55' | 1-0 | Riccardo Calafiori (OG) |
 
-*** Albania - Spain
+*** Albania - Spain 0-1
 <2024-06-24 Mon 21:00>
 Düsseldorf Arena, Düsseldorf
 
-*** Croatia - Italy
+| 13' | 0-1 | Ferran Torres |
+
+*** Croatia - Italy 1-1
 <2024-06-24 Mon 21:00>
 Leipzig Stadium, Leipzig
+
+| 55'   | 1-0 | Luka Modrić     |
+| 90+8' | 1-1 | Mattia Zaccagni |
 
 ** Group C                                                           :GroupC:
 *** Slovenia - Denmark 1-1
