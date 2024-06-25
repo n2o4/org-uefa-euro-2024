@@ -177,13 +177,22 @@ Olympiastadion, Berlin
 <2024-06-21 Fri 21:00>
 Leipzig Stadium, Leipzig
 
-*** Netherlands - Austria
+*** Netherlands - Austria 2-3
 <2024-06-25 Tue 18:00>
 Olympiastadion, Berlin
 
-*** France - Poland
+| 6'  | 0-1 | Donyell Malen (OG) |
+| 47' | 1-1 | Cody Gakpo         |
+| 59' | 1-2 | Romano Schmid      |
+| 75' | 2-2 | Memphis Depay      |
+| 80' | 2-3 | Marcel Sabitzer    |
+
+*** France - Poland 1-1
 <2024-06-25 Tue 18:00>
 BVB Stadion Dortmund, Dortmund
+
+| 56' | 1-0 | Kylian Mbappé (pen.)      |
+| 79' | 1-1 | Robert Lewandowski (pen.) |
 
 ** Group E                                                           :GroupE:
 *** Romania - Ukraine 3-0
