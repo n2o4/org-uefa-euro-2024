@@ -274,7 +274,7 @@ Arena AufSchalke, Gelsenkirchen
 Volksparkstadion, Hamburg
 
 ** Round of 16                                                    :RoundOf16:
-*** Germany - Runner-up group C                                     :Match37:
+*** Germany - Denmark                                               :Match37:
 <2024-06-29 Sat 21:00>
 BVB Stadion Dortmund, Dortmund
 
@@ -286,7 +286,7 @@ Olympiastadion, Berlin
 <2024-06-30 Sun 21:00>
 Cologne Stadium, Cologne
 
-*** Winner group C - 3rd group D/E/F                                :Match40:
+*** England - 3rd group D/E/F                                       :Match40:
 <2024-06-30 Sun 18:00>
 Arena AufSchalke, Gelsenkirchen
 
