@@ -294,7 +294,7 @@ Arena AufSchalke, Gelsenkirchen
 <2024-07-01 Mon 21:00>
 Frankfurt Arena, Frankfurt
 
-*** Runner-up group D - Runner-up group E                           :Match42:
+*** France - Runner-up group E                                      :Match42:
 <2024-07-01 Mon 18:00>
 Düsseldorf Arena, Düsseldorf
 
@@ -302,7 +302,7 @@ Düsseldorf Arena, Düsseldorf
 <2024-07-02 Tue 18:00>
 Fussball Arena München, Munich
 
-*** Winner group D - Runner-up group F                              :Match44:
+*** Austria - Runner-up group F                                     :Match44:
 <2024-07-02 Tue 21:00>
 Leipzig Stadium, Leipzig
 
