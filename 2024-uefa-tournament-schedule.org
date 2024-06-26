@@ -224,11 +224,14 @@ Cologne Stadium, Cologne
 | 2'  | 1-0 | Youri Tielemans |
 | 80' | 2-0 | Kevin De Bruyne |
 
-*** Slovakia - Romania
+*** Slovakia - Romania 1-1
 <2024-06-26 Wed 18:00>
 Frankfurt Arena, Frankfurt
 
-*** Ukraine - Belgium
+| 24' | 1-0 | Ondrej Duda         |
+| 37' | 1-1 | Răzvan Marin (pen.) |
+
+*** Ukraine - Belgium 0-0
 <2024-06-26 Wed 18:00>
 Stuttgart Arena, Stuttgart
 
@@ -265,13 +268,20 @@ BVB Stadion Dortmund, Dortmund
 | 28' | 0-2 | Samet Akaydin (OG) |
 | 56' | 0-3 | Bruno Fernandes    |
 
-*** Georgia - Portugal
+*** Georgia - Portugal 2-0
 <2024-06-26 Wed 21:00>
 Arena AufSchalke, Gelsenkirchen
 
-*** Czech Republic - Türkiye
+| 2'  | 1-0 | Khvicha Kvaratskhelia     |
+| 57' | 2-0 | Georges Mikautadze (pen.) |
+
+*** Czech Republic - Türkiye 1-2
 <2024-06-26 Wed 21:00>
 Volksparkstadion, Hamburg
+
+| 51'   | 0-1 | Hakan Çalhanoğlu |
+| 66'   | 1-1 | Tomas Soucek     |
+| 90+4' | 1-2 | Cenk Tosun       |
 
 ** Round of 16                                                    :RoundOf16:
 *** Germany - Denmark                                               :Match37:
@@ -294,11 +304,11 @@ Arena AufSchalke, Gelsenkirchen
 <2024-07-01 Mon 21:00>
 Frankfurt Arena, Frankfurt
 
-*** France - Runner-up group E                                      :Match42:
+*** France - Belgium                                                :Match42:
 <2024-07-01 Mon 18:00>
 Düsseldorf Arena, Düsseldorf
 
-*** Winner group E - 3rd group A/B/C/D                              :Match43:
+*** Romania - 3rd group A/B/C/D                                     :Match43:
 <2024-07-02 Tue 18:00>
 Fussball Arena München, Munich
 
