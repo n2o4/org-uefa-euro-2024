@@ -292,15 +292,15 @@ BVB Stadion Dortmund, Dortmund
 <2024-06-29 Sat 18:00>
 Olympiastadion, Berlin
 
-*** Spain - 3rd group A/D/E/F                                       :Match39:
+*** Spain - Georgia                                                 :Match39:
 <2024-06-30 Sun 21:00>
 Cologne Stadium, Cologne
 
-*** England - 3rd group D/E/F                                       :Match40:
+*** England - Slovakia                                              :Match40:
 <2024-06-30 Sun 18:00>
 Arena AufSchalke, Gelsenkirchen
 
-*** Portugal - 3rd group A/B/C                                      :Match41:
+*** Portugal - Slovenia                                             :Match41:
 <2024-07-01 Mon 21:00>
 Frankfurt Arena, Frankfurt
 
@@ -308,11 +308,11 @@ Frankfurt Arena, Frankfurt
 <2024-07-01 Mon 18:00>
 Düsseldorf Arena, Düsseldorf
 
-*** Romania - 3rd group A/B/C/D                                     :Match43:
+*** Romania - Netherlands                                           :Match43:
 <2024-07-02 Tue 18:00>
 Fussball Arena München, Munich
 
-*** Austria - Runner-up group F                                     :Match44:
+*** Austria - Türkiye                                               :Match44:
 <2024-07-02 Tue 21:00>
 Leipzig Stadium, Leipzig
 
