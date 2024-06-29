@@ -323,7 +323,7 @@ Fussball Arena München, Munich
 Leipzig Stadium, Leipzig
 
 ** Quarter finals                                                  :QtFinals:
-*** Winner match 39 - Winner match 37                               :Match45:
+*** Winner match 39 - Germany                                       :Match45:
 <2024-07-05 Fri 18:00>
 Stuttgart Arena, Stuttgart
 
@@ -331,7 +331,7 @@ Stuttgart Arena, Stuttgart
 <2024-07-05 Fri 21:00>
 Volksparkstadion, Hamburg
 
-*** Winner match 40 - Winner match 38                               :Match47:
+*** Winner match 40 - Switzerland                                   :Match47:
 <2024-07-06 Sat 18:00>
 Düsseldorf Arena, Düsseldorf
 
