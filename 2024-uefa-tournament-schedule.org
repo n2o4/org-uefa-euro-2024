@@ -284,13 +284,19 @@ Volksparkstadion, Hamburg
 | 90+4' | 1-2 | Cenk Tosun       |
 
 ** Round of 16                                                    :RoundOf16:
-*** Germany - Denmark                                               :Match37:
+*** Germany - Denmark 2-0                                           :Match37:
 <2024-06-29 Sat 21:00>
 BVB Stadion Dortmund, Dortmund
 
-*** Switzerland - Italy                                             :Match38:
+| 53' | 1-0 | Kai Havertz (pen.) |
+| 68' | 2-0 | Jamal Musiala      |
+
+*** Switzerland - Italy 2-0                                         :Match38:
 <2024-06-29 Sat 18:00>
 Olympiastadion, Berlin
+
+| 37' | 1-0 | Remo Freuler |
+| 46' | 2-0 | Ruben Vargas |
 
 *** Spain - Georgia                                                 :Match39:
 <2024-06-30 Sun 21:00>
