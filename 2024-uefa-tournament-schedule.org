@@ -298,9 +298,15 @@ Olympiastadion, Berlin
 | 37' | 1-0 | Remo Freuler |
 | 46' | 2-0 | Ruben Vargas |
 
-*** Spain - Georgia                                                 :Match39:
+*** Spain - Georgia 4-1                                             :Match39:
 <2024-06-30 Sun 21:00>
 Cologne Stadium, Cologne
+
+| 18' | 0-1 | R. Le Normand (OG) |
+| 39' | 1-1 | Rodri              |
+| 51' | 2-1 | Fabián Ruiz        |
+| 75' | 3-1 | Nico Williams      |
+| 83' | 4-1 | Dani Olmo          |
 
 *** England - Slovakia 2-1                                          :Match40:
 <2024-06-30 Sun 18:00>
