@@ -302,9 +302,13 @@ Olympiastadion, Berlin
 <2024-06-30 Sun 21:00>
 Cologne Stadium, Cologne
 
-*** England - Slovakia                                              :Match40:
+*** England - Slovakia 2-1                                          :Match40:
 <2024-06-30 Sun 18:00>
 Arena AufSchalke, Gelsenkirchen
+
+| 25'   | 0-1 | Ivan Schranz    |
+| 90+5' | 1-1 | Jude Bellingham |
+| 91'   | 2-1 | Harry Kane      |
 
 *** Portugal - Slovenia                                             :Match41:
 <2024-07-01 Mon 21:00>
