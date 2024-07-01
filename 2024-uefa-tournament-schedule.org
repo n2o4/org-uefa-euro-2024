@@ -316,13 +316,19 @@ Arena AufSchalke, Gelsenkirchen
 | 90+5' | 1-1 | Jude Bellingham |
 | 91'   | 2-1 | Harry Kane      |
 
-*** Portugal - Slovenia                                             :Match41:
+*** Portugal - Slovenia 0-0 (3-0)                                   :Match41:
 <2024-07-01 Mon 21:00>
 Frankfurt Arena, Frankfurt
 
-*** France - Belgium                                                :Match42:
+| Cristiano Ronaldo | 1-0 | Josip Iličić    |
+| Bruno Fernandes   | 2-0 | Jure Balkovec   |
+| Bernardo Silva    | 3-0 | Benjamin Verbič |
+
+*** France - Belgium 1-0                                            :Match42:
 <2024-07-01 Mon 18:00>
 Düsseldorf Arena, Düsseldorf
+
+| 85' | 1-0 | Jan Vertonghen (OG) |
 
 *** Romania - Netherlands                                           :Match43:
 <2024-07-02 Tue 18:00>
