@@ -330,13 +330,21 @@ Düsseldorf Arena, Düsseldorf
 
 | 85' | 1-0 | Jan Vertonghen (OG) |
 
-*** Romania - Netherlands                                           :Match43:
+*** Romania - Netherlands 0-3                                       :Match43:
 <2024-07-02 Tue 18:00>
 Fussball Arena München, Munich
 
-*** Austria - Türkiye                                               :Match44:
+| 20'   | 0-1 | Cody Gakpo    |
+| 83'   | 0-2 | Donyell Malen |
+| 90+3' | 0-3 | Donyell Malen |
+
+*** Austria - Türkiye 1-2                                           :Match44:
 <2024-07-02 Tue 21:00>
 Leipzig Stadium, Leipzig
+
+| 1'  | 0-1 | Merih Demiral       |
+| 59' | 0-2 | Merih Demiral       |
+| 66' | 1-2 | Michael Gregoritsch |
 
 ** Quarter finals                                                  :QtFinals:
 *** Spain - Germany                                                 :Match45:
