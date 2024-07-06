@@ -378,9 +378,13 @@ Düsseldorf Arena, Düsseldorf
 | Ivan Toney             | 4-3 | Zeki Amdouni    |
 | Trent Alexander-Arnold | 5-3 |                 |
 
-*** Netherlands - Türkiye                                           :Match48:
+*** Netherlands - Türkiye 2-1                                       :Match48:
 <2024-07-06 Sat 21:00>
 Olympiastadion, Berlin
+
+| 35' | 0-1 | Samet Akaydin    |
+| 70' | 1-1 | Stefan de Vrij   |
+| 76' | 2-1 | Mert Müldür (OG) |
 
 ** Semi-finals                                                   :SemiFinals:
 *** Spain - France                                                  :Match49:
