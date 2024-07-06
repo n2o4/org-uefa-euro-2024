@@ -365,9 +365,18 @@ Volksparkstadion, Hamburg
 | Nuno Mendes       | 3-4 | Bradley Barcola |
 |                   | 3-5 | Theo Hernández  |
 
-*** England - Switzerland                                           :Match47:
+*** England - Switzerland 1-1 (5-3)                                 :Match47:
 <2024-07-06 Sat 18:00>
 Düsseldorf Arena, Düsseldorf
+
+| 75' | 0-1 | Breel Embolo |
+| 80' | 1-1 | Bukayo Saka  |
+
+| Cole Palmer            | 1-0 | Manuel Akanji   |
+| Jude Bellingham        | 2-1 | Fabian Schär    |
+| Bukayo Saka            | 3-2 | Xherdan Shaqiri |
+| Ivan Toney             | 4-3 | Zeki Amdouni    |
+| Trent Alexander-Arnold | 5-3 |                 |
 
 *** Netherlands - Türkiye                                           :Match48:
 <2024-07-06 Sat 21:00>
