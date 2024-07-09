@@ -387,9 +387,13 @@ Olympiastadion, Berlin
 | 76' | 2-1 | Mert Müldür (OG) |
 
 ** Semi-finals                                                   :SemiFinals:
-*** Spain - France                                                  :Match49:
+*** Spain - France 2-1                                              :Match49:
 <2024-07-09 Tue 21:00>
 Fussball Arena München, Munich
+
+| 9'  | 0-1 | Randal Kolo Muani |
+| 21' | 1-1 | Lamine Yamal      |
+| 25' | 2-1 | Dani Olmo         |
 
 *** Holland - England                                               :Match50:
 <2024-07-10 Wed 21:00>
