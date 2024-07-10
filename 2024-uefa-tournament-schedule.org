@@ -395,11 +395,15 @@ Fussball Arena München, Munich
 | 21' | 1-1 | Lamine Yamal      |
 | 25' | 2-1 | Dani Olmo         |
 
-*** Holland - England                                               :Match50:
+*** Holland - England 1-2                                           :Match50:
 <2024-07-10 Wed 21:00>
 BVB Stadion Dortmund, Dortmund
 
+| 7'    | 1-0 | Xavi Simmons      |
+| 18'   | 1-1 | Harry Kane (pen.) |
+| 90+1' | 1-2 | Ollie Watkins     |
+
 ** Final                                                              :Final:
-*** Spain - Winner match 50
+*** Spain - England
 <2024-07-14 Sun 21:00>
 Olympiastadion, Berlin
